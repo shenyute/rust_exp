@@ -1,0 +1,8 @@
+[package]
+name = "http_server"
+version = "0.1.0"
+authors = ["YuTeh Shen <shenyute@gmail.com>"]
+
+[dependencies]
+hyper = "0.9.7"
+env_logger = "0.3"
